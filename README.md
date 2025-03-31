@@ -9,21 +9,21 @@ I’m a Software Developer and Technical Writer skilled in building scalable app
 
 ## 💡 What I Do
 
-- 🏗 Software Development – Building full-stack applications with modern technologies.
+- Software Development – Building full-stack applications with modern technologies.
 
-- 📖 Technical Writing – Creating API documentation, product documentation, developer guides, and software manuals.
+-  Technical Writing – Creating API documentation, product documentation, developer guides, and software manuals.
 
-- 🔍 API Documentation – Writing clear and effective API docs to improve developer experience.
+-  API Documentation – Writing clear and effective API docs to improve developer experience.
 
-- ☁️ Artificial Intelligence – Exploring everything about AI.
+-  Artificial Intelligence – Exploring everything about AI.
 
 ## 🎯 Interests & Goals
 
-- 🚀 I am currently learning Artificial Intellience (AI).
+-  I am currently learning Artificial Intellience (AI).
 
-- 🤝 Looking to collaborate on open-source projects, API documentation, technical documentation, and software development projects.
+-  Looking to collaborate on open-source projects, API documentation, technical documentation, and software development projects.
 
-- 📝 Sharing insights on software development, best practices, and technical writing.
+-  Sharing insights on software development, best practices, and technical writing.
 
 
 ## 🛠 My Toolbox

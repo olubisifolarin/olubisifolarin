@@ -9,47 +9,47 @@ I’m a Software Developer and Technical Writer skilled in building scalable app
 
 ## 💡 What I Do
 
-🏗 Software Development – Building full-stack applications with modern technologies.
+- 🏗 Software Development – Building full-stack applications with modern technologies.
 
-📖 Technical Writing – Creating API documentation, product documentation, developer guides, and software manuals.
+- 📖 Technical Writing – Creating API documentation, product documentation, developer guides, and software manuals.
 
-🔍 API Documentation – Writing clear and effective API docs to improve developer experience.
+- 🔍 API Documentation – Writing clear and effective API docs to improve developer experience.
 
-☁️ Artificial Intelligence – Exploring everything about AI.
+- ☁️ Artificial Intelligence – Exploring everything about AI.
 
 ## 🎯 Interests & Goals
 
-🚀 I am currently learning Artificial Intellience (AI).
+- 🚀 I am currently learning Artificial Intellience (AI).
 
-🤝 Looking to collaborate on open-source projects, API documentation, and software engineering content.
+- 🤝 Looking to collaborate on open-source projects, API documentation, technical documentation, and software development projects.
 
-📝 Sharing insights on software development, best practices, and technical writing.
+- 📝 Sharing insights on software development, best practices, and technical writing.
 
 
 ## 🛠 My Toolbox
 
 ### 💻 Languages & Frameworks
-Programming Languages: Python, JavaScript, PHP
+- Programming Languages: Python, JavaScript, PHP
 
-Frontend & Backend Frameworks: HTML, CSS, Booststrap, Tailwind, React, Django, Laravel
+- Frontend & Backend Frameworks: HTML, CSS, Booststrap, Tailwind, React, Django, Laravel
 
 ### 🚀 Tools & Platforms
-Version Control: Git, GitHub, GitLab
+- Version Control: Git, GitHub, GitLab
 
-Cloud Services: AWS
+- Cloud Services: AWS
 
-API Development & Testing: Postman, Swagger, Talend API Tester
+- API Development & Testing: Postman, Swagger, Talend API Tester
 
-Databases: PostgreSQL, SQLite, MySQL
+- Databases: PostgreSQL, SQLite, MySQL
 
 ### ✍️ Writing & Documentation
-Technical Writing Tools: Markdown, Notion, Jira, Confluence
+- Technical Writing Tools: Markdown, Notion, Jira, Confluence
 
-API Documentation: Swagger (OpenAPI), Postman, Redoc
+- API Documentation: Swagger (OpenAPI), Postman, Redoc
 
-Content Publishing: Hashnode, Medium
+- Content Publishing: Hashnode, Medium
 
-Diagram & Flowchart Tools: Draw.io, Lucidchart
+- Diagram & Flowchart Tools: Draw.io, Lucidchart
 
 ## 📫 Connect With Me
 
@@ -60,6 +60,6 @@ Diagram & Flowchart Tools: Draw.io, Lucidchart
 ## ⚡ Fun Fact: 
 - *I once wanted to be a medical doctor, but life had other plans. Now I diagnose and treat bugs in software 😆!*
 - *I love simplifying complex tech concepts and making them accessible to everyone!*
-- *I’m looking to collaborate on **open-source projects, API documentation, and software development projects*.  
+- *I’m looking to collaborate on open-source projects, API documentation, and software development projects*.  
 
 

@@ -1,4 +1,5 @@
-
+<div align="center">
+  
 ## Hi,👋 I'm Olubisi Folarin
 
 
@@ -62,6 +63,6 @@ I’m a Software Developer and Technical Writer skilled in building scalable app
 ## ⚡ Fun Fact: 
 - *I once wanted to be a medical doctor, but life had other plans. Now I diagnose and treat bugs in software 😆!*
 - *I love simplifying complex tech concepts and making them accessible to everyone!*
-- *I’m looking to collaborate on open-source projects, API documentation, and software development projects*.  
+- *I want to collaborate on open-source projects, API documentation, and software development projects*.  
 
-
+</div>

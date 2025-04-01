@@ -1,5 +1,5 @@
 
-## Hi,👋 I'm Olubisi Folarin  
+<p align="center">## Hi,👋 I'm Olubisi Folarin  </p>
 
 
 ## 🚀 About Me
@@ -24,6 +24,8 @@ I’m a Software Developer and Technical Writer skilled in building scalable app
 -  Looking to collaborate on open-source projects, API documentation, technical documentation, and software development projects.
 
 -  Sharing insights on software development, best practices, and technical writing.
+
+-  Open to Software Developer and Technical Writing roles (flexible with time zones and open to relocation).
 
 
 ## 🛠 My Toolbox

@@ -1,5 +1,5 @@
 
-## <p align="center"> Hi,👋 I'm Olubisi Folarin  </p>
+## Hi,👋 I'm Olubisi Folarin
 
 
 ## 🚀 About Me
